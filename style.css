@@ -1,0 +1,37 @@
+.top {
+  background-image: url('https://wallpaperaccess.com/full/4511.jpg');
+}
+
+
+.logo {
+  border: 5px solid black;
+}
+
+
+body {
+  background-color: #80bfff;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  text-shadow: 3px 2px midnightblue;
+  font-size: 100px;
+}
+
+h2 {
+  color: midnightblue;
+  text-shadow: 3px 2px #ff4d4d;
+  font-size: 42px;
+}
+
+.top {
+  border: 5px solid black;
+}
+
+
+tr {
+  border: 10px 10px white;
+  background-color: midnightblue;
+  color: #ff4d4d;
+}
